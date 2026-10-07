@@ -1,0 +1,1 @@
+cliente = input('Qual cliente você quer consultar hoje?:  ')
